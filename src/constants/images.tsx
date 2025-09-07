@@ -1,0 +1,22 @@
+const Images = {
+    next: require('./../assets/next.png'),
+    camera: require('./../assets/camera.png'),
+    gallery: require('./../assets/gallery.png'),
+    profile: require('./../assets/profile.png'),
+    splash: require('./../assets/splash.png'),
+    success: require('./../assets/success.png'),
+    pictures: require('./../assets/pictures.png'),
+    model: require('./../assets/model.png'),
+    dress: require('./../assets/dress.png'),
+    glasses: require('./../assets/glasses.png'),
+    bg: require('./../assets/bg.png'),
+    sneakers: require('./../assets/sneakers.png'),
+    brush: require('./../assets/brush.png'),
+    user: require('./../assets/user.png'),
+    user_friendly: require('./../assets/user-friendly.png'),
+    dresses: require('./../assets/fashion-young-woman.png'),
+    jeans: require('./../assets/jeans.png'),
+    pants: require('./../assets/pants.png'),
+    tops: require('./../assets/tops.png'),
+}
+export default Images;
